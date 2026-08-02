@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jorgedegregorio.github.io/buenos-aires-y-su-barrios/sitemap.xml
